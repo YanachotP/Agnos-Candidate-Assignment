@@ -1,0 +1,5 @@
+# Environment: DEFAULT
+LOGIN_URL: https://dev.app.agnoshealth.com/ai_dashboard/login
+REGISTER_URL : https://dev.app.agnoshealth.com/ai_dashboard/agnos/sign_up/
+HOME_URL : https://dev.app.agnoshealth.com/onboarding/0
+TEST_URL : https://www.google.com/
